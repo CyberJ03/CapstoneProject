@@ -14,7 +14,7 @@ In this project, I worked with Peter Song, Will Schmidt, and Rebecca Davis who b
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Presentation:</h2>
 
 <p align="center">
 
