@@ -7,12 +7,12 @@ In this project, I worked with <a href="https://www.linkedin.com/in/peterksong/"
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b></b> 
+- <b></b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Presentation:</h2>
 
